@@ -1,16 +1,6 @@
-# mi_card_flutter
+## ⚡ Flutter Journey 1: Mi-Card App
 
-A new Flutter project.
+Hello there, today I just starting my Flutter personal project journey. I create this app, Mi-Card App. So, this app concept basically is a business card but in digital. Here is what my app look like:
 
-## Getting Started
+[<img alt="Mi-Card App" src="https://raw.githubusercontent.com/codestronaut/flutter-mi-card-app/main/assets/FlutterJourney001.jpg" />]
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
